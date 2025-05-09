@@ -17,6 +17,7 @@ import android.view.ViewConfiguration;
 
 import com.hunband.virtualjoystickcompose.R;
 
+@Deprecated
 public class JoystickView extends View
         implements
         Runnable {
